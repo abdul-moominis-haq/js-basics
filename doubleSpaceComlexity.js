@@ -5,4 +5,4 @@ function doubleSpaceComplexity(arr){
     }
     return newArr;
 }
-console.log(doubleSpaceComplexity([1,6,8,9]))
+console.log(doubleSpaceComplexity([10,16,80,90]))
